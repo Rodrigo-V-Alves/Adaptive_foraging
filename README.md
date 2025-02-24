@@ -1,5 +1,7 @@
 # Adaptive_foraging
 
+![alt text](https://github.com/Rodrigo-V-Alves/Adaptive_foraging/blob/main/Figures/Picture1.pdf)
+
 This repository is part of my thesis where I will compile data from different studies containing info on prey consumed and available for generalist consumers under field conditions.
 
 ---
